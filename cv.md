@@ -1,8 +1,8 @@
-##Resume
-####Personal
-####information
+## Resume
+#### Personal
+#### information
  __Name:__  IvanTurak
- 
+
  __Address:__ Brest Moshenskogo st. 104 sq. 10
 
 __Phone:__  +375292098414              
@@ -17,25 +17,25 @@ __Marital status:__  Married
 
 __Nationality:__ Belarusian 
 ___
-####Objective
+#### Objective
 
 Apply your skills as a JS development engineer in a company, focusing on quality and ingenuity.
 ___
 
-####Work Experience
+#### Work Experience
 
 I do not have work experience.
 
 ___
 
-####Education
+#### Education
 
  Studying now
 Rolling Scopes School.
 
 ___
 
-####Skills
+#### Skills
 
 __Computer skills:__ The basics: HTML, CSS and Git
 
