@@ -18,7 +18,7 @@ __Nationality:__ Belarusian
 ___
 ### Objective
 
-Apply your skills as a JS development engineer in a company, focusing on quality and ingenuity.
+Apply my skills as a JS development engineer in a company, focusing on quality and ingenuity.
 ___
 
 ### Work Experience
@@ -29,7 +29,8 @@ ___
 
 ### Education
 
- Studying now
+Studying now
+
 Rolling Scopes School.
 
 ___
