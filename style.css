@@ -1,2 +1,12 @@
-<style>
-</style>
+h2 {
+  color:gray;
+}
+h1 {
+  text-align: center;
+}
+a {
+  color: blueviolet;
+}
+.contact {
+  text-align: right;
+}
