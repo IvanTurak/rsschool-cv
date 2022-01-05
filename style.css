@@ -1,2 +1,75 @@
-<style>
-</style>
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  background: 0 0 /100% 100% url('./1614388083_60-p-foni-dlya-prezentatsii-abstraktnie-svetlie-64.jpg') repeat-y;
+}
+body {
+  margin: 0;
+}
+header {
+  padding: 0 8px;
+  background-color: rgba(0, 0, 0, 0.137)
+}
+footer {
+  padding: 0 8px;
+}
+h2 {
+  color:blue;
+}
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+  color: brown;
+}
+a {
+  color: blueviolet;
+}
+.contact {
+  text-align: right;
+  font-size: 16px;
+  order: 1;
+}
+.object {
+  text-align: center;
+  font-size: 20px;
+}
+.experience {
+  text-align: center;
+  font-size: 20px;
+}
+.education {
+  text-align: center;
+  font-size: 20px;
+}
+.skills {
+  font-size: 20px;
+}
+ol {
+  width: 300px;
+  margin: 0 auto;
+}
+.interests {
+  text-align: center;
+  font-size: 20px;
+}
+.container {
+  display: flex;
+  padding-top: 50px;
+  justify-content: space-evenly;
+
+}
+.cv {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+@media (max-width: 570px) {
+  .container {
+    flex-direction: column;
+    align-items: center;
+  }
+  .contact {
+    text-align: center;
+  }
+}
