@@ -27,3 +27,14 @@ a {
   text-align: center;
   font-size: 20px;
 }
+.skills {
+  font-size: 20px;
+}
+ol {
+  width: 300px;
+  margin: 0 auto;
+}
+.interests {
+  text-align: center;
+  font-size: 20px;
+}
